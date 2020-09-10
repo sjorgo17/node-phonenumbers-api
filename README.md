@@ -1,4 +1,4 @@
-## flask-userphone-api
+## node-phonenumbers-api
 
 Simple API for User-Phone numbers management using Node.js, Express and MongoDB 
 🎉. The API built here will be used in a React front-end.
